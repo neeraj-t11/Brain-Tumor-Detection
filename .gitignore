@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+models/
+Prerequisite and training/labels.pickle
+Prerequisite and training/training_data.pickle
